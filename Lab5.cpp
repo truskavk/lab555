@@ -25,7 +25,7 @@ int main() {
     Calendar.addWeatherItem(day2);
     Calendar.addWeatherItem(day5);
     day1.Print();
-    day1.isLvivWeather();
+    day8.isLvivWeather();
     Calendar.bubbleSort();
     Calendar.PrintVector();
     cout << "\nThe highest temperature " << Calendar.findMaxTemprature(5) << endl;
